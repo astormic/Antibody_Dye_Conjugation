@@ -65,9 +65,22 @@ To be able to filter the sodium azide in protein solution.
 
 ## Appendix
 ### Calculations for primary CD45 bioconjugation
+| Material | Concentration | Amount | Concentration in mixture |
+| -------- | ------- | ------- | ------- |
+| Mouse Anti-Human CD45 | 3.3 µM | 20 µL | 2.7 µM  | 
+| Atto 647N       | 1 mM   | 2 µL  | 83.3 µM | 
+| SoBi            | 1 M    | 2 µL  | 8e+5 µM |
 
 ### Calculations for secondary bioconjugation
+| Material | Concentration | Amount | Concentration in mixture |
+| -------- | ------- | ------- | ------- |
+| Goat Anti-Mouse | 3.3 µM | 50 µL | 2.7 µM  | 
+| Atto 647N       | 1 mM   | 6 µL  | 98.3 µM | 
+| SoBi            | 1 M    | 5 µL  | 8e+5 µM |
 
+> [!NOTE]
+> Concentration in mixture is calculated using: $$Concentration.in.mixture = \frac{Concentration*Amount}{Total Volume}$$
+ 
 <footer>
 
 <!--
