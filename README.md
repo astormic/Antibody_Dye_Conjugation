@@ -74,7 +74,7 @@ To be able to filter the sodium azide in protein solution.
 ### Calculations for secondary bioconjugation
 | Material | Concentration | Amount | Concentration in mixture |
 | -------- | ------- | ------- | ------- |
-| Goat Anti-Mouse | 3.3 µM | 50 µL | 2.7 µM  | 
+| Goat Anti-Mouse | 12 µM | 50 µL | 2.7 µM  | 
 | Atto 647N       | 1 mM   | 6 µL  | 98.3 µM | 
 | SoBi            | 1 M    | 5 µL  | 8e+5 µM |
 
