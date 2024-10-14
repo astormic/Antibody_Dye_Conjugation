@@ -27,9 +27,10 @@ _The process of attaching fluorescent molecules to antibodies._
   - Secondary Antibody:
     [Goat anti-Mouse IgG](https://www.bioscience.co.uk/product~73025)
   - Dye:
-    [Atto 647N](https://www.aatbio.com/products/atto-647n-nhs-ester) supplied with an NHS (N-hydroxysuccinimde) ester reactive group.
+    [Atto 647N NHS ester](https://www.aatbio.com/products/atto-647n-nhs-ester)
   - Phosphate buffered saline (PBS)
   - Sodium bicarbonate (SoBi), 1M, pH8.5
+  - 
 
 ## Methods:
 ### Buffer Exchange in Gel Filteration Column
@@ -53,7 +54,12 @@ _The process of attaching fluorescent molecules to antibodies._
 3. Take 1.5 µL of the buffer to measure the concentration using UV-Vis
 4. Leave it at room temperature (1 hour)
 5. Run the buffer through a new gel filteration column
-   
+
+### Notes
+The efficiency of labelling expressed as fluorochromes per protein (F/P), was then measured using UV-vis spectrophotometer (DeNovix DS-11 Series).
+
+After conjugation free dye was removed by running the solution through a fresh filteration column.  
+
 ## FAQs: 
 **Why do we use sodium bicarbonate?**
 
